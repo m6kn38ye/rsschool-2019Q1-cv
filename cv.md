@@ -44,6 +44,9 @@ module.exports = function getLoveTrianglesCount(preferences = []) {
 * Mozyr State Polytechnical College 2006
 * [Codecademy HTML & CSS course][1]
 
+## English level
+A2+ according to training.by score
+
 
 
 
